@@ -5,7 +5,7 @@ This makes authentication more secure because the password never touches the ser
 
 ## Implementations
 
-* [java](https://github.com/M3DZIK/java-hsauth)
+* [Java](https://github.com/M3DZIK/java-hsauth)
 
 ## Versions
 
