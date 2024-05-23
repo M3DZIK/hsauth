@@ -6,6 +6,7 @@ This makes authentication more secure because the password never touches the ser
 ## Implementations
 
 * [Java](https://github.com/M3DZIK/java-hsauth)
+* [Go](https://github.com/M3DZIK/go-hsauth)
 
 ## Versions
 
